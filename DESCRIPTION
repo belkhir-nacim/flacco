@@ -6,8 +6,8 @@ Description: Contains tools and features, which can be used for an exploratory l
 Authors@R: c(person("Pascal", "Kerschke", role = c("aut", "cre"),
     email = "kerschke@uni-muenster.de"),
     person("Jan", "Dagefoerde", role = "aut"))
-URL: https://github.com/kerschke/flacco
-BugReports: https://github.com/kerschke/flacco/issues
+URL: https://github.com/belkhir-nacim/flacco
+BugReports: https://github.com/belkhir-nacim/flacco/issues
 License: BSD_3_clause + file LICENSE
 Encoding: UTF-8
 Roxygen: list(wrap = FALSE)
