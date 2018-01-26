@@ -32,7 +32,7 @@ Depends:
     rpart,
     shape,
     testthat
-Suggests:
+Suggest:
     devtools,
     e1071,
     expm,
